@@ -26,5 +26,5 @@
 
 &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/62633444/98807658-536b5180-245e-11eb-9ff3-15a96257d85e.png"  width="190" height="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/62633444/98807746-7433a700-245e-11eb-8f0c-7afb4c181a44.png"  width="190" height="350">
 
-
-## 1,2,3,4 기능들 공유, 저장 가능합니다.
+--------------------
+# 모든 합성 결과물은 공유 & 저장이 가능합니다
